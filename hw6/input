@@ -1,0 +1,9 @@
+The number of lines:
+6
+The lines that are written in such format A -> B:
+list -> list + digit
+list -> list - digit
+list -> digit
+digit -> 0
+digit -> 1
+Aray -> Moldir
