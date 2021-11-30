@@ -1,2 +1,2 @@
 # C++-course
-C++ course in SJTU: homeworks
+University C++ course: homeworks (autumn 2018)
